@@ -1,7 +1,7 @@
 ## Mavlonov Bobur | Web developer
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+Web+Developer;I'm+Frontend+Developer)
 
-
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/pinterest--311381761734186207/">
 
 
 
