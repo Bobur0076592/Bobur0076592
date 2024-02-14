@@ -1,7 +1,7 @@
 ## Mavlonov Bobur | Web developer
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+Web+Developer;I'm+Frontend+Developer)
 
-<img align="right" alt="Coding" width="400" src="[https://pin.it/1I7LizJUR](https://medium.com/linkapi-solutions/how-to-reach-developer-experience-supreme-level-part-one-ed87015af29f)">
+<img align="right" alt="Coding" width="400" src="https://medium.com/linkapi-solutions/how-to-reach-developer-experience-supreme-level-part-one-ed87015af29f">
 
 
 
