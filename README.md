@@ -26,7 +26,7 @@
 <h1>Loading...</h1> 
 
 
-<code><img src ="[https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png](https://p1.hiclipart.com/preview/196/853/315/react-logo-javascript-stack-overflow-front-and-back-ends-github-freecodecamp-redux-computer-software-png-clipart.jpg)https://p1.hiclipart.com/preview/196/853/315/react-logo-javascript-stack-overflow-front-and-back-ends-github-freecodecamp-redux-computer-software-png-clipart.jpg" width="60px">
+<code><img src ="https://icons.iconarchive.com/icons/icons8/windows-8/256/Logos-Google-Scholar-icon.png" width="60px">
 
 
 
