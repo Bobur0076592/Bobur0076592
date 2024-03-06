@@ -23,7 +23,8 @@
 
 <code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "60px"><code><img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "50px"><code><img src = "https://www.theamplituhedron.com/articles/How-to-copy-and-remove-an-HTML-element-via-JavaScript/Pictures/1.JPG" width = "50px"><code><img src = "https://static-00.iconduck.com/assets.00/vue-icon-512x442-j09z7tua.png" width = "58px">
 
-<h5>Loading...</h5>
+<h1>Loading...</h1
+                >
 
 
 
