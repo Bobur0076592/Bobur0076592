@@ -26,7 +26,7 @@
 <h1>Loading...</h1> 
 
 
-<code><img src ="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png">
+<code><img src ="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
 
 
 
