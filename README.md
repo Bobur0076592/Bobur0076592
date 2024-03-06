@@ -26,7 +26,7 @@
 <h1>Loading...</h1> 
 
 
-<code><img src ="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
+<code><img src ="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="60px">
 
 
 
