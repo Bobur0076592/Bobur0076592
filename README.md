@@ -21,7 +21,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/elegent_7)
 
-<code><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreazilla.com%2Fnodes%2F3195437-html-icon&psig=AOvVaw0IQ7LA-SAhy3xTK7j5IT6s&ust=1709832798721000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCG0NeV4IQDFQAAAAAdAAAAABAR" width = "250px">
+<code><img src = "https://icones.pro/wp-content/uploads/2021/05/icone-html-bleue.png" width = "250px">
 
 
 
