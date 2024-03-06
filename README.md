@@ -26,7 +26,7 @@
 <h1>Loading...</h1> 
 
 
-<code><img src ="https://icons.iconarchive.com/icons/icons8/windows-8/256/Logos-Google-Scholar-icon.png" width="60px">
+<code><img src ="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" width="60px">
 
 
 
