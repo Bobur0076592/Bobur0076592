@@ -21,7 +21,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/elegent_7)
 
-<code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px"><code><img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "50px"><code><img src = "https://e7.pngegg.com/pngimages/793/545/png-clipart-javascript-logo-computer-icons-vue-js-angle-text-thumbnail.png" width = "50px"><code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px">
+<code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px"><code><img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width = "50px"><code><img src = "https://w7.pngwing.com/pngs/934/398/png-transparent-js-node-logos-and-brands-line-filled-icon-thumbnail.png" width = "50px"><code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px">
 
 
 
