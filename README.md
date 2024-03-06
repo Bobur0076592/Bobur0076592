@@ -21,7 +21,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/elegent_7)
 
-<code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px"><code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px"><code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px"><code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px">
+<code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px"><code><img src = "[https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png](https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png)" width = "50px"><code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px"><code><img src = "https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width = "50px">
 
 
 
